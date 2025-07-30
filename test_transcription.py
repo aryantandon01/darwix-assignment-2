@@ -1,7 +1,7 @@
 import requests
 
 # Replace with the path to your actual sample audio file (e.g., 'D:\\path\\to\\sample.wav')
-audio_path = 'D:\\GitHubProjects\\darwix-assignment-2\\videoplayback.m4a'  # Must be a valid file!
+audio_path = ''     # Must be a valid file
 
 url = "http://127.0.0.1:8000/transcription/transcribe/"
 
